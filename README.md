@@ -1,4 +1,4 @@
-# WMS WS
+# WMS WS ( Deprecated !!! )
 SysFreight WMS Project    
 
 Development Enviroment:  
