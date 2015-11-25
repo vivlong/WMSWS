@@ -1,5 +1,7 @@
-# WMS WS ( Deprecated !!! )
+# [DEPRECATED] WMS WS  
 SysFreight WMS Project    
+
+### This project deprecated, i.e. it is no longer maintained. Going forward additional features and bug fixes will be added to the new [WebApi](https://github.com/vivlong/WebApi) repository.  
 
 Development Enviroment:  
 ## VS2013 CE  
